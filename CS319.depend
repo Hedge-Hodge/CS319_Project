@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1589764080 source:/Users/margarethodgins/Documents/Coding/CS319/country.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<cstdio>
+	"country.h"
+
+1589762967 /Users/margarethodgins/Documents/Coding/CS319/country.h
+	<string>
+	<iostream>
+	<vector>
+	<stdio.h>
+
+1589764805 source:/Users/margarethodgins/Documents/Coding/CS319/main.cpp
+	<string>
+	<iostream>
+	<fstream>
+	<vector>
+	<stdio.h>
+	<stdexcept>
+	<sstream>
+	"country.h"
+
